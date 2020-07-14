@@ -1,6 +1,6 @@
 # Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 Projeto da disciplina de Eletrônica pra computação.
-## Disponível em [Drive](https://drive.google.com/drive/folders/1EAyHD9mlbYFlmYqCqR0_iOwV97Bup3ks?usp=sharing) [Github](https://github.com/thamysis-usp/Projeto-Fonte-Zenner.git)
+## Disponível em [Drive](https://drive.google.com/drive/folders/1EAyHD9mlbYFlmYqCqR0_iOwV97Bup3ks?usp=sharing) e  [Github](https://github.com/thamysis-usp/Projeto-Fonte-Zenner.git)
 ### Especificações:
 - Diagrama da Fonte com os valores dos componentes escolhidos
 - Link para o circuito no Falstad ou outro simulador
