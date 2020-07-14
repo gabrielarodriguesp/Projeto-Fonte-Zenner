@@ -22,6 +22,8 @@ Projeto da disciplina de Eletrônica pra computação.
 |Potenciômetro |1,09                |Resistência: 5K; Potência 0.2W;Tipo: Linear Rotativo        |[AQUI](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|
 |Transistor    |0,17                |Transistor NPN - BC337                                      |[AQUI](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|
 
-- [Link para projeto no Faltad](http://tinyurl.com/y9o8txvr)
+- [Link para projeto no Falstad](http://tinyurl.com/y9o8txvr)
 - [Link para projeto no Eagle](https://drive.google.com/drive/folders/1EAyHD9mlbYFlmYqCqR0_iOwV97Bup3ks?usp=sharing)
 - [Link para vídeo no Youtube](https://youtu.be/rlS5JC6_aeo)
+
+
