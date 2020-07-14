@@ -1,6 +1,7 @@
 # Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 Projeto da disciplina de Eletrônica pra computação.
-## Disponível em https://drive.google.com/drive/folders/1EAyHD9mlbYFlmYqCqR0_iOwV97Bup3ks?usp=sharing 
+## Disponível em 
+                 https://drive.google.com/drive/folders/1EAyHD9mlbYFlmYqCqR0_iOwV97Bup3ks?usp=sharing 
                  https://github.com/thamysis-usp/Projeto-Fonte-Zenner.git
 ### Especificações:
 - Diagrama da Fonte com os valores dos componentes escolhidos
@@ -20,3 +21,7 @@ Projeto da disciplina de Eletrônica pra computação.
 |Diodo Zener   |0,21                |Diodo Zener BZX84C; Tensão de regulação 13V; Potência 250mW |[AQUI](https://www.baudaeletronica.com.br/diodo-zener-bzx84c-13v-250mw.html)|
 |Potenciômetro |1,09                |Resistência: 5K; Potência 0.2W;Tipo: Linear Rotativo        |[AQUI](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|
 |Transistor    |0,17                |Transistor NPN - BC337                                      |[AQUI](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|
+
+[Link para projeto no Faltad](http://tinyurl.com/y9o8txvr)
+[Link para projeto no Eagle](https://drive.google.com/drive/folders/1EAyHD9mlbYFlmYqCqR0_iOwV97Bup3ks?usp=sharing)
+[Link para vídeo no Youtube](https://youtu.be/rlS5JC6_aeo)
